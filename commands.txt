@@ -1,0 +1,23 @@
+A. For client
+	1. npm create vite@latest ./
+		-> React	-> JavaScript
+
+	2. npm install
+
+	3. npm install -D tailwindcss
+	4. npx tailwindcss init
+
+	5. npm install file-saver
+
+
+	6. npm run dev
+
+
+B.For Server side
+	1. npm init -y [For package.json file]
+	2.  npm install cloudinary[for storing the image] cors[for cross communication] dotenv[for secret files] express mongoose nodemon openai
+
+	3. cluter
+		name: useme1223
+		password: NFmcCUfiUQ6TdaWQ
+		connectionString: mongodb+srv://<username>:<password>@cluster0.gdkxtbc.mongodb.net/?retryWrites=true&w=majority
